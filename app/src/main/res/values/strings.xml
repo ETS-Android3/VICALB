@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">VICALB</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">com.google.vicalb</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fbcom.google.vicalb</string>
+
+    <string name="versio">Versión 1.0.0</string>
+    <string name="inici">Iniciar Sesión</string>
+    <string name="registrar">Registrate</string>
+    <string name="textRegis">¿No tienes cuenta?</string>
+    <string name="registrarse">REGISTRO</string>
+    <string name="bntRegistro">REGISTRARME</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="infoB">Información del perfil</string>
+    <string name="blank">No se ha llenado ninguna información</string>
+    <string name="infoC">Correo</string>
+    <string name="cerrar">Salir de la sesión</string>
+    <string name="info">Informacion</string>
+    <string name="title_res">Restaurantes</string>
+    <string name="micompra">Mi compra</string>
+    <string name="valoracion">Valoracion</string>
+    <string name="profile">Perfil</string>
+    <string name="prefeEx">¡Preferencias guardadas correctamente!</string>
+    <string name="tittle_home">Restaurantes</string>
+    <string name="selectcomida">Seleccion de comida</string>
+    <string name="selecpreferencia">Seleccion de las preferencias</string>
+    <string name="tipo">Tipo de pago:</string>
+    <string name="americano">Restaurante Americano</string>
+    <string name="japones">Restaurante Japones</string>
+    <string name="prefe">Preferencias</string>
+    <string name="vegetariano">Restaurante Vegetariano</string>
+    <string name="marisqueria">Restaurante Marisqueria</string>
+    <string name="btnCompra">COMPRAR</string>
+    <string name="btnInfo">INFORMACION</string>
+    <string name="btnPagar">Pagar</string>
+
+
+    <string name="btnR">COMPRAR</string>
+    <string name="btnV">veure més</string>
+    <string name="jap">Restaurante Japones</string>
+    <string name="ame">Restaurante Americano</string>
+    <string name="veget">Restaurante Vegetariano</string>
+    <string name="maris">Restaurante Marisqueria</string>
+    <string name="title_activity_details_parking">Map</string>
+    <string name="llegar">como llegar</string>
+    <string name="desc">Descripcion</string>
+    <string name="descRe">La gastronomía no deja de ser algo muy subjetivo y por esa razón Bokoto Sushi Club ofrece una experiencia más allá de la cocina japonesa.</string>
+    <string name="hora">Horario</string>
+    <string name="horaRe">El horario es de Martes a Domingo de 13 a 16h y de 18.30 a 21h</string>
+    <string name="acc">Acceso</string>
+    <string name="accRe">El acceso es 24h</string>
+    <string name="loc">Localizacion</string>
+    <string name="locRe">Carrer del Bisbe Messeguer, 2, 25003 Lleida</string>
+    <string name="horaEn">Hora</string>
+    <string name="americanoD">Conoce en VICALB el sabor de la comida americana: hamburguesas, costillas... Descubre nuestra carta y encuentra tu restaurante más cercano.</string>
+    <string name="americanoL">C/ Rambla Ferran, 40, Lleida</string>
+    <string name="inic"><u>Iniciar sesion</u></string>
+    <string name="title_activity_maps">Map</string>
+
+
+
+    <string name="cerrarS">¿Estas seguro de que quieres cerrar la sesión?</string>
+    <string name="settings">Configuracion</string>
+    <string name="permission_denied_explanation">Se ha denegado el permiso, pero se necesita para las principales funcionalidades </string>
+    <string name="ruta">Ruta hasta restaurante</string>
+    <string name="GPS">  El GPS esta deshabilitado, es necesario activarlo para crear la ruta!</string>
+    <string name="title_activity_manage_main">ManageMain</string>
+    <string name="title_home">Inici</string>
+    <string name="reserva">Reserva</string>
+
+
+    <string name="selec">Seleccion de les preferencias</string>
+    <string name="regis"><u>Registrate!</u></string>
+    <string name="registrat"><u>Registrate</u></string>
+    <string name="bntRegis">Registrarme</string>
+    <string name="nada">No tienes ninguna compra</string>
+
+    <!--Layout Comprar-->
+    <string name="gyozas">Gyozas de pato 5 ud.</string>
+    <string name="infGyozas">Empanadillas de pato rebozadas con panko, mayonesa japonesa, salsa tonkatsu y virutas de atún “katsuobushi”.</string>
+    <string name="precioGyo">10,75 €</string>
+
+    <string name="yakisoba">Yakisoba </string>
+    <string name="infYakisoba">Fideos ramen salteados al wok con vegetales y langostinos.</string>
+    <string name="precioYaki">13,95 €</string>
+
+    <string name="sushi">Sushi Box de 30 ud</string>
+    <string name="infSushi">Roll spicy tuna, atún picante, cebollino y aguacate (8 unidades), roll California surimi, aguacate y pepino (8 unidades), roll sake, salmón, queso crema y pepino (4 unidades), roll light, aguacate, lechuga, espárrago y pepino (4 unidades), hosomaki kappa maki, roll de pepino (2 unidades), hosomaki tekka maki, roll de atún (2 unidades) y hosomaki sake maki, roll de salmón (2 unidades).</string>
+    <string name="precioSushi">34,00 €</string>
+
+    <string name="mochi">Mochi Mix</string>
+    <string name="infMochi">Cheesecake, chocolate y té verde. 3 unidades.</string>
+    <string name="precioMochi">5,50 €</string>
+
+    <string name="btnTarjeta">Tarjeta</string>
+    <string name="btnEfectivo">Efectivo</string>
+
+    <!--Layout Valoracion-->
+    <string name="user1">Anonimo 1</string>
+    <string name="valor1">Hemos comido en este restaurante y debo decir que ha sido un gran descubrimiento . Muy buena calidad en los platos. Muy bien elaborados. Muy buen gusto.</string>
+    <string name="user2">Anonimo 2</string>
+    <string name="valor2">Sitio muy bonito. Servicio muy rapido. Comida perfectamente hecha, parece que te ubiques en America. Muy recomendable</string>
+    <string name="user3">Anonimo 3</string>
+    <string name="valor3">Restaurante calidad precio muy buena. De lo mejor que puedes encontrar vegetariano. Si te apetece algo saludable y a buen precio que te deje satisfecho, éste es uno de ellos. Gracias por el trato!!</string>
+    <string name="user4">Anonimo 4</string>
+    <string name="valor4">Marisco muy bueno, fresco y muy degustable. Sencillo de transportar. No se encuentran muchos restaurantes como éste. Recomendable 100%!!</string>
+    <string name="btnOpinar">Enviar </string>
+
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Reservas</string>
+    <string name="msg_subscribed">Se ha autenticado correctamente!!</string>
+    <string name="msg_subscribe_failed">NO se pudo autenticar correctamente</string>
+    <string name="msg_token_fmt" translatable="false">FCM Token de registro: %s</string>
+    <string name="fcm_message">FCM Mensaje Reservas</string>
+
+</resources>

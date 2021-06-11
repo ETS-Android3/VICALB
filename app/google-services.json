@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483588751908",
+    "project_id": "vicalb-bf367",
+    "storage_bucket": "vicalb-bf367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483588751908:android:882f449503668269e34eb1",
+        "android_client_info": {
+          "package_name": "com.google.vicalb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483588751908-fsqau2rprbte1rd006rpmnncva70ud6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbyLaczvkEy0Jnn6WhhvwaRFlN1ZMnL5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483588751908-fsqau2rprbte1rd006rpmnncva70ud6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
